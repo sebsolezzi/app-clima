@@ -15,7 +15,7 @@ async function buscarClima(e) {
     const info = document.querySelector('.info');
     const icono = document.querySelector('.fas');
     
-    const apiKey = '761697f82ac7aea23d2f93e1e4b43226';
+    const apiKey ='ingresa tu key de la api';
     const ciudad = input.value
 
     if (!ciudad) return;
